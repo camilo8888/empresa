@@ -1,2 +1,2 @@
-nombre:juan camilo
-correo:juancaskate41@gmail.com
+Nombre:juan camilo
+Correo:juancaskate41@gmail.com
